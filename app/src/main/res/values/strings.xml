@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demo-android</string>
+    <string name="action_settings">Settings</string>
+    <string name="print">打印</string>
+</resources>
